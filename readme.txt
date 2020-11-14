@@ -1,3 +1,6 @@
+After downloading the zip file, unzip it and get a folder "Simplex-main".
+Then open Pycharm, and File -> Open -> /Simplex-main/Simplex-main/. 
+
 src/SlackForm.py: The class of slack form
 src/StandardForm.py: The class of standard form
 src/Simplex.py: The class which implements Simplex Algorithm.
