@@ -1,3 +1,7 @@
+The details of the algorithm and LP are described in:
+https://blog.csdn.net/u012907049/article/details/109635692
+https://blog.csdn.net/u012907049/article/details/109699773
+
 After downloading the zip file, unzip it and get a folder "Simplex-main".
 Then open Pycharm, and File -> Open -> /Simplex-main/Simplex-main/. 
 
